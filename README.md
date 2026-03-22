@@ -1,4 +1,4 @@
-# superstore-sales-dashboard
+ # superstore-sales-dashboard 
 Excel dashboard project analyzing sales, profit, and customer trends
 
 **🔹 Project Overview**
